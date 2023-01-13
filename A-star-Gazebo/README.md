@@ -1,4 +1,4 @@
-# astarpart2
+# astar in gazebo
 Baseline package for astar_gazebo661.
 
 In the following instructions, we assume your catkin workspace is named catkin_ws and is located in your home directory.
