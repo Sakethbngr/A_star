@@ -13,3 +13,6 @@ The heuristic value is set to 1.5 (line 110 in code, feel free to change it to i
 
 PS: We have scaled this map by 100 times
 output video and image will be saved in the current directory
+
+# A_star in Gazebo
+
