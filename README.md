@@ -1,3 +1,8 @@
+|Team Members
+|--
+|Saketh Narayan Banagiri
+|Balaji Selvakumar
+
 # A_star Phase 1
 
 Open and run the .py file
