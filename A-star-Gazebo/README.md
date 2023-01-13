@@ -4,7 +4,7 @@ Baseline package for astar_gazebo661.
 In the following instructions, we assume your catkin workspace is named catkin_ws and is located in your home directory.
 
 - `cd ~/catkin_ws/src`
-- `git clone https://github.com/Sakethbngr/A_star.git
+- `git clone https://github.com/Sakethbngr/A_star.git`
 - - rename the package as astar_gazebo661 from astar_gazeobo661
 - `cd ~/catkin_ws`
 - `catkin build`
